@@ -18,6 +18,7 @@ markers:
   - {type: line-break, offset: 6, content: '', id: KR4f0008_SBCK_009-1a03}
   - {type: indent, offset: 6, content: 　, id: KR4f0008_SBCK_009-bkkind2}
   - {type: punctuation, offset: 10, content: (, id: KR4f0008_SBCK_009-bkkpn1}
+  - {type: voice, offset: 10, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 12, content: ), id: KR4f0008_SBCK_009-bkkpn2}
   - {type: 'kr:newline', offset: 12, content: '
 
@@ -205,6 +206,7 @@ markers:
   - {type: line-break, offset: 912, content: '', id: KR4f0008_SBCK_009-3a01}
   - {type: indent, offset: 912, content: 　　, id: KR4f0008_SBCK_009-bkkind3}
   - {type: punctuation, offset: 918, content: (, id: KR4f0008_SBCK_009-bkkpn3}
+  - {type: voice, offset: 918, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 920, content: ), id: KR4f0008_SBCK_009-bkkpn4}
   - {type: 'kr:newline', offset: 920, content: '
 
@@ -412,6 +414,7 @@ markers:
   - {type: line-break, offset: 1931, content: '', id: KR4f0008_SBCK_009-5a01}
   - {type: indent, offset: 1931, content: 　　, id: KR4f0008_SBCK_009-bkkind4}
   - {type: punctuation, offset: 1935, content: (, id: KR4f0008_SBCK_009-bkkpn5}
+  - {type: voice, offset: 1935, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1937, content: ), id: KR4f0008_SBCK_009-bkkpn6}
   - {type: 'kr:newline', offset: 1937, content: '
 
@@ -595,6 +598,7 @@ markers:
   - {type: line-break, offset: 2798, content: '', id: KR4f0008_SBCK_009-7a01}
   - {type: indent, offset: 2798, content: 　　, id: KR4f0008_SBCK_009-bkkind5}
   - {type: punctuation, offset: 2803, content: (, id: KR4f0008_SBCK_009-bkkpn7}
+  - {type: voice, offset: 2803, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2805, content: ), id: KR4f0008_SBCK_009-bkkpn8}
   - {type: 'kr:newline', offset: 2805, content: '
 
@@ -870,4 +874,4 @@ markers:
 
       ', id: KR4f0008_SBCK_009-bkkkrnewl212}
   back: []
-hash: sha256:946cd164222c50248fc40622f314a2d25173df9de2a7d887e254b626fb1c2ea7
+hash: sha256:8b1458d299ec69c6fdacbd35529dbb715f97eda31d0792481c9ec158d008faaf
